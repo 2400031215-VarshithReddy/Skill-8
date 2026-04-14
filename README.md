@@ -29,7 +29,7 @@ Use `http://localhost:8080` as base URL.
 1. Category search
    - `GET /products/category/Electronics`
    - (JPQL category test) `GET /products/category/Fashion?mode=jpql`
-
+.
 2. Price range filter
    - `GET /products/filter?min=80&max=300`
 
