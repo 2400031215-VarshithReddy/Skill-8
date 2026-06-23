@@ -44,3 +44,4 @@ Use `http://localhost:8080` as base URL.
 - Filter `80-300` returns 4 products.
 - Sorted endpoint returns products in ascending price order.
 - Expensive `>200` returns 3 products.
+//end
